@@ -11,6 +11,7 @@ function App() {
   return (
     <>
     <h1>Movies</h1>
+    <p>Deploying to Netlify</p>
  <div className="App">
      <Movies />
     </div>
